@@ -1,0 +1,11 @@
+{include("LegalDomain/as4AnV1.asl")}
+{include("LegalDomain/as4AnV2.asl")}
+{include("LegalDomain/as4EC.asl")}
+{include("LegalDomain/as4ER.asl")}
+{include("LegalDomain/as4VC.asl")}
+{include("LegalDomain/as4WT.asl")}
+{include("LegalDomain/asCExp.asl")}
+{include("LegalDomain/asFactCmpV1.asl")}
+{include("LegalDomain/asFactCmpV2.asl")}
+{include("LegalDomain/asP2KAdP.asl")}
+{include("LegalDomain/asP4P.asl")}
